@@ -37,5 +37,5 @@ The script will automatically locate and decrypt the corresponding *_encrypted.t
 FrostCipher is intended solely as a learning resource to demonstrate basic cipher logic and file handling in Python.
 It is not intended for production, commercial, or security-critical use, and must never be used for any illegal activities.
 
-By using this software, you acknowledge and agree to all terms and conditions described in this README file and the LICENSE file.
+By using this software, you acknowledge and agree to all terms and conditions described in this README file and the FrostCipher License (v1.0)+ file.
 
