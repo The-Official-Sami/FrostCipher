@@ -22,7 +22,7 @@ No legal action will be taken against users who use FrostCipher as intended—fo
 🚫 Prohibited Uses
 - Do NOT use FrostCipher for illegal, unauthorized, or malicious purposes.
 - Do NOT attempt to modify, reverse-engineer, redistribute, or use this software commercially.
-- For full license terms and legal protections, see the included LICENSE file.
+- For full license terms and legal protections, see the included FrostCipher License (v1.0)+ file.
 
 
 🧪 Example Usage
