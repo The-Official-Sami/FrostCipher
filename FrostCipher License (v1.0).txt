@@ -1,0 +1,42 @@
+FrostCipher Custom License v1.0 – May 2025
+
+Copyright (c) 2025 The Official Sami
+
+Permission is granted to use, copy, and share this software for **personal educational purposes only**, under the following strict conditions:
+
+1. **NO MODIFICATION OR DERIVATIVE WORKS**  
+   You may NOT modify, reverse-engineer, decompile, disassemble, adapt, or create derivative works based on this software, in whole or in part.
+
+2. **NO COMMERCIAL USE OR SALE**  
+   This software may NOT be sold, licensed, leased, used in any commercial, professional, revenue-generating, or governmental context, or included in any product or service for which any fee is charged.
+
+3. **NO REDISTRIBUTION**  
+   Redistribution, publication, uploading, or distribution of the source code, binaries, or any derivative works is strictly prohibited without the explicit, prior, written permission of the original author.
+
+4. **USE AT YOUR OWN RISK & NO WARRANTY**  
+   This software is provided "AS IS", WITHOUT WARRANTY OF ANY KIND, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, or non-infringement.  
+   The author assumes NO responsibility and shall NOT be liable for any damages, losses, claims, or consequences (including but not limited to loss of data, loss of profits, business interruption, or any other loss) arising out of the use, inability to use, or misuse of this software, even if advised of the possibility of such damages.
+
+5. **NOT A SECURITY TOOL**  
+   This is **NOT a real encryption tool** and must NEVER be used to protect sensitive, personal, confidential, classified, or regulated data.  
+   Any use of this software for data protection, privacy, or security purposes is strictly forbidden and entirely at your own risk.
+
+6. **NO ILLEGAL OR UNAUTHORIZED USE**
+   This software must NOT be used for any unlawful, illegal, unauthorized, or prohibited activities under any local, national, or international law or regulation. Any such use is strictly forbidden and constitutes a violation of this license. The author will not be responsible or liable for any illegal or unauthorized use of this software.
+
+
+7. **NO SUPPORT OR MAINTENANCE**  
+   This software is provided without any support, maintenance, updates, or guarantees of any kind.
+
+8. **INDEMNIFICATION**  
+   By using this software, you agree to indemnify, defend, and hold harmless the author from and against any and all claims, liabilities, damages, losses, costs, or expenses (including legal fees) arising from your use, misuse, or violation of these license terms.
+
+9. **JURISDICTION**  
+   This license shall be governed by and construed in accordance with the laws of Canada. Any disputes arising from the use of this software shall be subject to the exclusive jurisdiction of the courts of Canada.
+
+
+By using this software, you acknowledge, accept, and agree to ALL of the above terms, without exception.  
+Violation of any of these terms may result in legal consequences under applicable Canadian and international intellectual property laws.
+
+By using this software, you acknowledge and agree to all terms and conditions described in this LICENSE file and the READ ME file.
+End of License.
